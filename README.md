@@ -1,2 +1,2 @@
-# Hello-World
-My First C# Session
+# My first repo
+This is my first repo. That's why I've called this repo "Hello world"!
